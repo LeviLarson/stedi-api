@@ -90,5 +90,5 @@ metadata:
   name: prod-stedi-levi-certificate # This needs to match line 68
 spec:
   domains:
-    - levi.cit262.com # This is a DNS record that has not been created yet - we need to create that first
+    - levil.cit262.com # This is a DNS record that has not been created yet - we need to create that first
     
